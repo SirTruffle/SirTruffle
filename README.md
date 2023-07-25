@@ -12,5 +12,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/develop/icons/ros/ros-original-wordmark.svg" title="Ros" alt="Ros" width="40" height="40"/>
-  <img srx = "https://github.com/devicons/devicon/blob/develop/icons/markdown/markdown-original.svg" title="Markdown" alt = "Md" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/develop/icons/markdown/markdown-original.svg" title="Markdown" alt="Md" width="40" height="40"/>
 </div>
